@@ -2,6 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chris91ss&color=blue)
 
+## 📊 **GitHub Stats**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris91ss&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 About Me  
 I'm **Mititean Cristian**, a **Computer Science student** at [Babeș-Bolyai University](https://www.ubbcluj.ro/) in Cluj-Napoca, Romania 🇷🇴. I have a strong passion for **software engineering, distributed systems, game development, and artificial intelligence**.  
 
@@ -28,9 +31,6 @@ Beyond coding, I'm always **learning and experimenting**, whether it's **designi
 🕹 **Game Development** - AI-driven Gameplay, Physics Simulations, Procedural Generation, Unity, Unreal Engine, Godot.  
 
 Outside of coding, I enjoy **riding motorcycles 🏍️, and constantly learning new technologies**.   
-
-## 📊 **GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris91ss&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 
